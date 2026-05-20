@@ -34,22 +34,22 @@ docs/       Architecture docs and screenshots
 ## 📸 Lab Evidence
 
 ### Management Group Hierarchy
-![MG Root](01-tenant-root-group.png)
-![MG Hierarchy](02-mg-hierarchy.png)
-![Subscription Under Workloads](03-sub-under-workloads-mg.png)
+![Tenant Root Group](docs/01-tenant-root-group.png)
+![MG Hierarchy](docs/02-mg-hierarchy.png)
+![Subscription Under Workloads](docs/03-sub-under-workloads-mg.png)
 
 ### Resource Groups and Tags
-![Resource Groups](04-resource-groups-list.png)
-![RG Tags](05-rg-tags.png)
+![Resource Groups List](docs/04-resource-groups-list.png)
+![RG Tags](docs/05-rg-tags.png)
 
 ### RBAC and Identity
-![RBAC Assignments](docs/06-rbac-role-assignments.png)
-![Service Principal](07-sp-app-registration.png)
+![RBAC Role Assignments](docs/06-rbac-role-assignments.png)
+![Service Principal](docs/07-sp-app-registration.png)
 
 ### Policy and Cost Controls
-![Policy Overview](08-policy-assignments_png.png)
-![Policy Compliance](09-policy-compliance.png)
-![Budget Alert](10-budget-alert.png)
+![Policy Assignments](docs/08-policy-assignments.png)
+![Policy Compliance](docs/09-policy-compliance.png)
+![Budget Alert](docs/10-budget-alert.png)
 
 ## 🧑‍💼 Author
 
